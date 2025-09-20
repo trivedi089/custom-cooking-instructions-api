@@ -1,4 +1,4 @@
-package com.example.instructions.model;
+package custom_cooking_instructions_api.Entity;
 
 import jakarta.persistence.*;
 import java.time.Instant;
